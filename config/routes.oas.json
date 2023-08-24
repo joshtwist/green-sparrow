@@ -10,8 +10,8 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "Route 1",
-        "description": "Lorem ipsum dolor sit amet, **consectetur adipiscing** elit, sed do `eiusmod tempor` incididunt ut labore et dolore magna aliqua.",
+        "summary": "BigID is awesome",
+        "description": "I love BigID.",
         "x-zuplo-route": {
           "corsPolicy": "none",
           "handler": {
